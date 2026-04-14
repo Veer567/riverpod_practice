@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:riverpod_practice/providers/search_provider.dart';
+import 'package:riverpod_practice/providers/search_providers.dart';
 import 'package:riverpod_practice/widget/news_list_view.dart';
 
-import '../providers/search_result_provider.dart';
 
 class SearchScreen extends ConsumerWidget {
   const SearchScreen({super.key});

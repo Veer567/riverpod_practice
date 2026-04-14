@@ -64,7 +64,7 @@ final class HeadlinesProvider
   }
 }
 
-String _$headlinesHash() => r'fc404dac5365eae312b6edb26b3cae12661e11e5';
+String _$headlinesHash() => r'f9ce1c4310a5620045f6c28ca81e2ec7048219d8';
 
 final class HeadlinesFamily extends $Family
     with $FunctionalFamilyOverride<FutureOr<List<Article>>, String> {

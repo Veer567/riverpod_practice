@@ -48,4 +48,4 @@ final class NewsApiProvider
   }
 }
 
-String _$newsApiHash() => r'9b8a0950b562f5dbd06e5d0e0b2297303e271029';
+String _$newsApiHash() => r'1e34611dca0d08eb119e242defa9a7793822b165';

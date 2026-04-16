@@ -2,8 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:riverpod_practice/core/constants/app_images.dart';
 import 'package:riverpod_practice/providers/headlines_provider.dart';
-
-import '../../models/article.dart';
+import '../api/models/article.dart';
 
 class NewsListView extends ConsumerWidget {
   final String category;

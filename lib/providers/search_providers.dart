@@ -1,7 +1,8 @@
 // search_providers.dart
 import 'package:riverpod_annotation/riverpod_annotation.dart';
-import 'package:riverpod_practice/models/article.dart';
 import 'package:riverpod_practice/providers/news_api_service_provider.dart';
+
+import '../api/models/article.dart';
 
 part 'search_providers.g.dart';
 

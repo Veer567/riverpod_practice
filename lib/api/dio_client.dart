@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
-import 'package:riverpod_practice/core/constants/api_endpoint.dart';
+import 'package:riverpod_practice/api/api_endpoint.dart';
 
 
 class DioClient {

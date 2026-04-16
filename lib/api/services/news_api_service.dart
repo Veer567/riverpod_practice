@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:riverpod_practice/core/constants/api_endpoint.dart';
-import 'package:riverpod_practice/models/article.dart';
+import 'package:riverpod_practice/api/api_endpoint.dart';
+import '../models/article.dart';
 
 class NewsApiService {
   final Dio _dio;
